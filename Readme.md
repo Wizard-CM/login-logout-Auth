@@ -1,4 +1,4 @@
-// Steps //
+// Steps ///
 
 => npm init
 => package.json editing (module , dev)
